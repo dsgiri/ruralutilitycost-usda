@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# USDA Planning Hub
 
-# Run and deploy your AI Studio app
+A practical decision-support toolkit for organizing acreage inputs, estimating program payments, and reviewing compliance benchmarks, provided by Rural Utility Cost.
 
-This contains everything you need to run your app locally.
+## Overview
+This repository houses a React-based web application that acts as a planning companion for rural producers. It provides tools for estimating USDA-style agricultural payments, acreage benchmarks, and program eligibility checks.
 
-View your app in AI Studio: https://ai.studio/apps/b4e6a3de-2f64-4bca-bd37-5db19ad0a973
+**Note:** This is an informational tool and is NOT officially affiliated with the USDA, FSA, RD, or any government agency.
 
-## Run Locally
+## Documentation
+Please see the `/docs` directory for full project documentation and the `Vibe Coding Standards` documentation registry:
+- [Product Requirements Document (PRD)](docs/PRD.md)
+- [System Design & Style Guide](docs/SYSTEM_DESIGN.md)
+- [Site Architecture](docs/ARCHITECTURE.md)
+- [Task Board](TASKS.md)
 
-**Prerequisites:**  Node.js
+## Tech Stack
+- React 19 + TypeScript
+- Vite
+- Tailwind CSS v4
+- Lucide React (Icons)
 
+## Getting Started
+To run the development server locally:
+```bash
+npm install
+npm run dev
+```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+To build for production:
+```bash
+npm run build
+```
