@@ -6,7 +6,7 @@ export function AboutView() {
       <div className="border-b-2 border-black pb-5">
         <h1 className="text-4xl font-black text-[#1a1a1a] tracking-tighter">About This Hub</h1>
         <p className="mt-2 text-slate-600 font-bold uppercase tracking-widest text-xs">
-          The USDA Planning Hub is a companion module within the broader <strong>Rural Utility Cost</strong> ecosystem.
+          The USDA Planning Hub is a companion module within the broader <strong>Rural Ops Tools</strong> ecosystem.
         </p>
       </div>
 
@@ -66,7 +66,7 @@ export function LegalView() {
             2. No Government Affiliation
           </h3>
           <p className="text-slate-600 font-medium leading-relaxed">
-            This website is part of the private Rural Utility Cost ecosystem. It is <strong className="text-black">NOT</strong> affiliated with, endorsed by, or an official product of the United States Department of Agriculture (USDA), the Farm Service Agency (FSA), Rural Development (RD), or any state or federal government agency.
+            This website is part of the private Rural Ops Tools ecosystem. It is <strong className="text-black">NOT</strong> affiliated with, endorsed by, or an official product of the United States Department of Agriculture (USDA), the Farm Service Agency (FSA), Rural Development (RD), or any state or federal government agency.
           </p>
         </section>
 

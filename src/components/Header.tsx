@@ -36,7 +36,7 @@ export function Header({ currentView, onNavigate }: HeaderProps) {
             USDA <span className="font-light text-slate-400">HUB</span>
           </h1>
           <p className="text-[10px] font-bold uppercase tracking-wider text-slate-500">
-            Part of ruralutilitycost.com
+            Part of ruralopstools.com
           </p>
         </div>
       </div>

@@ -1,6 +1,6 @@
 # USDA Planning Hub
 
-A practical decision-support toolkit for organizing acreage inputs, estimating program payments, and reviewing compliance benchmarks, provided by Rural Utility Cost.
+A practical decision-support toolkit for organizing acreage inputs, estimating program payments, and reviewing compliance benchmarks, provided by Rural Ops Tools.
 
 ## Overview
 This repository houses a React-based web application that acts as a planning companion for rural producers. It provides tools for estimating USDA-style agricultural payments, acreage benchmarks, and program eligibility checks.

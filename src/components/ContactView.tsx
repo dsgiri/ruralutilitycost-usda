@@ -22,7 +22,7 @@ export function ContactView() {
       <div className="border-b-2 border-black pb-5">
         <h1 className="text-4xl font-black text-[#1a1a1a] tracking-tighter">Contact Us</h1>
         <p className="mt-2 text-slate-600 font-bold uppercase tracking-widest text-xs">
-          Get in touch with the Rural Utility Cost team.
+          Get in touch with the Rural Ops Tools team.
         </p>
       </div>
 
